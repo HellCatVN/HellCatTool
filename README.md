@@ -1,0 +1,2 @@
+# LoliSec
+Extension of LoliTeam
