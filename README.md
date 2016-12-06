@@ -8,3 +8,11 @@
 <h1>Main Website Of HellCatVN:</h1>
 [![Badges](https://img.shields.io/badge/My-Website-red.svg)](https://meomeoilu.blogspot.com/)</br>
 To Download This Extension click release tab 
+Instruction:
+Type this on address bar
+chrome://extensions
+Click checkbox to turn on developer mode.
+Extract downloaded file
+Click Load Unpacked Extension...
+Browse to what you have extracted.
+Then Turn off developer mode
